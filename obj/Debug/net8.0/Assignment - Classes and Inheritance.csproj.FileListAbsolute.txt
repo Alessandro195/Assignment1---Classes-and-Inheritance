@@ -1,0 +1,15 @@
+C:\Users\Alessandro\OneDrive\Desktop\Object Oriented\Assignment - Classes and Inheritance\bin\Debug\net8.0\Assignment - Classes and Inheritance.exe
+C:\Users\Alessandro\OneDrive\Desktop\Object Oriented\Assignment - Classes and Inheritance\bin\Debug\net8.0\Assignment - Classes and Inheritance.deps.json
+C:\Users\Alessandro\OneDrive\Desktop\Object Oriented\Assignment - Classes and Inheritance\bin\Debug\net8.0\Assignment - Classes and Inheritance.runtimeconfig.json
+C:\Users\Alessandro\OneDrive\Desktop\Object Oriented\Assignment - Classes and Inheritance\bin\Debug\net8.0\Assignment - Classes and Inheritance.dll
+C:\Users\Alessandro\OneDrive\Desktop\Object Oriented\Assignment - Classes and Inheritance\bin\Debug\net8.0\Assignment - Classes and Inheritance.pdb
+C:\Users\Alessandro\OneDrive\Desktop\Object Oriented\Assignment - Classes and Inheritance\obj\Debug\net8.0\Assignment - Classes and Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alessandro\OneDrive\Desktop\Object Oriented\Assignment - Classes and Inheritance\obj\Debug\net8.0\Assignment - Classes and Inheritance.AssemblyInfoInputs.cache
+C:\Users\Alessandro\OneDrive\Desktop\Object Oriented\Assignment - Classes and Inheritance\obj\Debug\net8.0\Assignment - Classes and Inheritance.AssemblyInfo.cs
+C:\Users\Alessandro\OneDrive\Desktop\Object Oriented\Assignment - Classes and Inheritance\obj\Debug\net8.0\Assignment - Classes and Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\Alessandro\OneDrive\Desktop\Object Oriented\Assignment - Classes and Inheritance\obj\Debug\net8.0\Assignment - Classes and Inheritance.sourcelink.json
+C:\Users\Alessandro\OneDrive\Desktop\Object Oriented\Assignment - Classes and Inheritance\obj\Debug\net8.0\Assignment - Classes and Inheritance.dll
+C:\Users\Alessandro\OneDrive\Desktop\Object Oriented\Assignment - Classes and Inheritance\obj\Debug\net8.0\refint\Assignment - Classes and Inheritance.dll
+C:\Users\Alessandro\OneDrive\Desktop\Object Oriented\Assignment - Classes and Inheritance\obj\Debug\net8.0\Assignment - Classes and Inheritance.pdb
+C:\Users\Alessandro\OneDrive\Desktop\Object Oriented\Assignment - Classes and Inheritance\obj\Debug\net8.0\Assignment - Classes and Inheritance.genruntimeconfig.cache
+C:\Users\Alessandro\OneDrive\Desktop\Object Oriented\Assignment - Classes and Inheritance\obj\Debug\net8.0\ref\Assignment - Classes and Inheritance.dll
